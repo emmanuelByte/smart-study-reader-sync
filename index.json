@@ -528,6 +528,12 @@
       "timings": "mit-8101-s06-s011.json",
       "seconds": 256.577333,
       "cueCount": 40
+    },
+    "mit-8101-s06-s012.mp3": {
+      "audio": "mit-8101-s06-s012-timed.mp3",
+      "timings": "mit-8101-s06-s012.json",
+      "seconds": 82.468,
+      "cueCount": 14
     }
   }
 }

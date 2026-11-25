@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "tracks": {
+    "mit-8101-s01-part-01.mp3": {
+      "audio": "mit-8101-s01-part-01-timed.mp3",
+      "timings": "mit-8101-s01-part-01.json",
+      "seconds": 258.784,
+      "cueCount": 41
+    }
+  }
+}

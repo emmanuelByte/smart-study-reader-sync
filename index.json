@@ -780,6 +780,24 @@
       "timings": "mit-8103-s05-s001.json",
       "seconds": 330.253333,
       "cueCount": 55
+    },
+    "mit-8103-s05-s002.mp3": {
+      "audio": "mit-8103-s05-s002-timed.mp3",
+      "timings": "mit-8103-s05-s002.json",
+      "seconds": 371.853333,
+      "cueCount": 71
+    },
+    "mit-8103-s05-s003.mp3": {
+      "audio": "mit-8103-s05-s003-timed.mp3",
+      "timings": "mit-8103-s05-s003.json",
+      "seconds": 296.9,
+      "cueCount": 54
+    },
+    "mit-8103-s05-s004.mp3": {
+      "audio": "mit-8103-s05-s004-timed.mp3",
+      "timings": "mit-8103-s05-s004.json",
+      "seconds": 293.570667,
+      "cueCount": 47
     }
   }
 }

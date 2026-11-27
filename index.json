@@ -2010,6 +2010,24 @@
       "timings": "mit-8113-s02-s005.json",
       "seconds": 552.905333,
       "cueCount": 98
+    },
+    "mit-8113-s02-s006.mp3": {
+      "audio": "mit-8113-s02-s006-timed.mp3",
+      "timings": "mit-8113-s02-s006.json",
+      "seconds": 444.118667,
+      "cueCount": 88
+    },
+    "mit-8113-s02-s007.mp3": {
+      "audio": "mit-8113-s02-s007-timed.mp3",
+      "timings": "mit-8113-s02-s007.json",
+      "seconds": 472.689333,
+      "cueCount": 84
+    },
+    "mit-8113-s02-s008.mp3": {
+      "audio": "mit-8113-s02-s008-timed.mp3",
+      "timings": "mit-8113-s02-s008.json",
+      "seconds": 376.442667,
+      "cueCount": 69
     }
   }
 }
